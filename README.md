@@ -9,7 +9,7 @@ Dev que je voudrais me focus:
 
 <h3 align="center"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes Réseau:</h3>
 <p align="left">
 <a href="https://twitter.com/@alexis57665923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexis57665923" height="30" width="40" /></a>
 <a href="https://discord.gg/alexis2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexis2604" height="30" width="40" /></a>
