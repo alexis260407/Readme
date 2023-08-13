@@ -5,7 +5,4 @@ Bonsoir, je me nomme Alexis, et j'aimerai bien apprendre le dev.
 Dev que je voudrais me focus: 
 ### Java, Python et NodeJS
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galexis260407&show_icons=true)
-
-(Kasac ma donné la permission d'utiliser, pour tester)
+(merci a Kasac d'avoir donné son read me pour apprendre à faire)
