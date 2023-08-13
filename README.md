@@ -1,9 +1,3 @@
-#Ceci est un test.
-Bonsoir, je me nomme Alexis, et j'aimerai bien apprendre le dev.
-
-Dev que je voudrais me focus: 
-Java, Python et NodeJS
-
 # Bonsoir cher Collègue (ou pas mdrrrr) 
 
 Bonsoir, je me nomme Alexis, et j'aimerai bien apprendre le dev.
